@@ -1,1 +1,1 @@
-# Project8
+This project, completed during my second semester, involved the application of concepts from the Object-Oriented Programming course. It was a solo endeavor aimed at designing and developing an online platform to assist drug dependents in their rehabilitation journey.
